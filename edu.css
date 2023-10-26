@@ -1,0 +1,39 @@
+#header{
+    background-color:lightgray;
+    border: 5px outset black;
+    display: flex;
+}
+#sub{
+    background-color: aqua;
+    
+    display: flex;
+   
+    
+   
+}
+.photo1{
+    width: 300px;
+    height: 300px;
+  
+    
+}
+.photo2{
+    width:300px ;
+    height:300px ;
+    
+    
+}
+.photo3{
+    width:300px ;
+    height:300px ;
+  
+}
+
+.text1{
+   
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: left;
+    
+   
+}
+
